@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/609458f0-4a3b-4013-8420-0ccc2ae1289d" alt="Jordan's banner"/>
+<im<g src="banner.png" alt="Jordan's banner"/
 
 <h1 align="center">Hola, soy Jordan Linares 👋</h1>
 <h3 align="center">Administrador de Empresas & Analista de Datos</h3>
