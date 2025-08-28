@@ -1,4 +1,4 @@
-<im<g src="banner.png" alt="Jordan's banner"/
+<img src="banner.png" alt="Jordan's banner"/>
 
 <h1 align="center">Hola, soy Jordan Linares 👋</h1>
 <h3 align="center">Administrador de Empresas & Analista de Datos</h3>
