@@ -1,5 +1,5 @@
 <div style="width:400px; height:200px; margin:0 auto; overflow:hidden;">
-  <img src="banner.png" alt="Jordan Linares banner" style="width:100%; height:80%; object-fit:cover; display:block;"/>
+  <img src="banner.png" alt="Jordan Linares banner" style="width:90%; height:80%; object-fit:cover; display:block;"/>
 </div>
 
 <h1 align="center">Hola, soy Jordan Linares 👋</h1>
