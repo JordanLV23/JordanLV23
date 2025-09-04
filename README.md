@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Jordan Linares banner" width="800" height="400" style="display:block; margin:0 auto;"/>
+<img src="banner.png" alt="Jordan Linares banner" width="1000" height="400" style="display:block; margin:0 auto;"/>
 
 <h1 align="center">Hola, soy Jordan Linares 👋</h1>
 <h3 align="center">Administrador de Empresas & Analista de Datos</h3>
